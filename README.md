@@ -1,4 +1,4 @@
-# DSA-And-Problem-Solving
+# DSA | Problem-Solving
 
 This repository contains implementations of significant Data Structures & Algorithms, day-wise solutions, and clear explanations on how to solve the most common coding problems. Use Python as a language.
 
